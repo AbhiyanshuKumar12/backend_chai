@@ -1,0 +1,19 @@
+{
+  "name": "backend-with-chai",
+  "version": "1.0.0",
+  "description": "abhi doing the backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "backend",
+    "to",
+    "build",
+    "something",
+    "big"
+  ],
+  "author": "Abhiyanshu Kumar",
+  "license": "ISC"
+}
